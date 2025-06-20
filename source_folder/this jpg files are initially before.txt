@@ -1,1 +1,1 @@
-this jpg files are initially before moving to destination_folder
+ jpg files are initially before moving to destination_folder
